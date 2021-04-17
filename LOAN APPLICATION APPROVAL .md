@@ -200,3 +200,9 @@ RandomForestClassifier(random_state=389,max_features='auto',n_estimators=200,max
   
  SO THE FINAL SCORE OF ACCURACY IS 87.56
  
+ 
+ 
+ 
+ GITHUB LINK OF FULL IPYNP IS :--
+ 
+ https://github.com/vinayak2910/Loan-application-status
