@@ -203,6 +203,6 @@ RandomForestClassifier(random_state=389,max_features='auto',n_estimators=200,max
  
  
  
- GITHUB LINK OF FULL IPYNP IS :--
+ GITHUB LINK OF FULL IPYNB IS :--
  
  https://github.com/vinayak2910/Loan-application-status
